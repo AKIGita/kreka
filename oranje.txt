@@ -1,2 +1,3 @@
 Ovo su zadaci za jednostavno ucenje Ruby programskog jezika.
 Ovo je nacin da nacis kako radi GitHub. Superiska
+ --- dvobrazdi
